@@ -1,0 +1,5 @@
+{
+  "name": "Garage d'Alex",
+  "description": "Tableau de bord de gestion pour le Garage d'Alex, incluant un chatbot, un calendrier de disponibilités et nos informations de contact.",
+  "requestFramePermissions": []
+}
